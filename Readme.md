@@ -1,12 +1,7 @@
-<<<<<<< HEAD
-# New Homework #5 
-=======
-# Norah Lin's Homework #5 (in 4107029007/aiot_hw5)
-
->>>>>>> 99115a9fafb80008745cefb5de6e3c4a546f33d1
+# New Homework #5 (test)
 ## Lecture 14: IoT Flask Web (github, vs code)
 
-### Step 1 : Development Environment Setup in aiot_hw5
+### Step 1 : Development Environment Setup
 1. Please install vs code, register github, install git for windows
 2. (check-point 1) github create a new repository (aiot0524)
 3. go to vs code clone this repository (choose new branch) 
@@ -17,7 +12,6 @@
 6. (check-point 2) 為了要upload local file to github from local要終端機 C:> 設定下面 (不設定 branch default ='main')
    * C:> git config --global user.name "Huan Chen"
    * C:> git config --global user.email huanchen1107@gmail.com
-<<<<<<< HEAD
 7. C:> git remote add origin https://github.com/huanchen1107/aiot0524.git
 
 if you want to change \
@@ -26,15 +20,6 @@ git branch -M main ]
 git push -u origin main
 
 
-=======
-   
-7. C:> git remote add origin https://github.com/huanchen1107/aiot_0524.git 
-
-if you want to change
-git remote add origin https://github.com/huanchen1107/aiot_hw5.git
-git branch -M main
-git push -u origin main
->>>>>>> 99115a9fafb80008745cefb5de6e3c4a546f33d1
 
 
 
